@@ -19,7 +19,7 @@ import java.util.stream.Stream;
  * - 中间操作
  *   - 一个中间操作链，对数据源的数据进行处理
  * - 终止操作
- *   - 一个终止操作，执行中间操作链，并产生结果
+ *   - 一个终止操作，执行中间操作链， 并产生结果
  */
 public class TestStreamAPI1 {
 
